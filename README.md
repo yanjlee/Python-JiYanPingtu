@@ -1,0 +1,1 @@
+jiyan拼图验证码，采用mitmdump脚本获取中间图片，用两张乱码图片合成一张新的图片，在用selenium+chrome滑动滑块
